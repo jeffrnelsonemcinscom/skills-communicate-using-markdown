@@ -15,8 +15,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ``` 
 
-
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
@@ -40,3 +41,4 @@ var myVar = "Hello, world!";
 I added 3 header lines of different sizes.
 I added an image next.
 I added code examples.
+I added task list example.
